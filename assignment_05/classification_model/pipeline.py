@@ -1,3 +1,12 @@
+
+from sklearn.pipeline import Pipeline
+
+# feature scaling
+from sklearn.preprocessing import StandardScaler
+
+# to build the models
+from sklearn.linear_model import LogisticRegression
+
 from feature_engine.imputation import (
     CategoricalImputer,
     AddMissingIndicator,
