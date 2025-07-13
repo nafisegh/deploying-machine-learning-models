@@ -1,5 +1,6 @@
 
 from sklearn.pipeline import Pipeline
+from classification_model.preprocessing.features import ExtractLetterTransformer
 
 # feature scaling
 from sklearn.preprocessing import StandardScaler
