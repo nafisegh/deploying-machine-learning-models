@@ -1,10 +1,10 @@
-# Numerical variables
-age
-fare
+Numerical variables
+- age
+- fare
 
-# Categorical variables
-sex
-cabin
-embarked
-title
+Categorical variables
+- sex
+- cabin
+- embarked
+- title
 
